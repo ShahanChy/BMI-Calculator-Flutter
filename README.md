@@ -1,2 +1,2 @@
 # BMI-Calculator-Flutter
-I have created this BMI calculator With flutter course. Lets try it.
+I have created super UI brain trainer app with java. Lets download and play!
